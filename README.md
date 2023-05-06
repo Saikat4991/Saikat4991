@@ -5,8 +5,11 @@ Aspiring Data Scientist
 -----------------------
 
 Education: 
+
 MTech in Computational and Data Science, IISc, Bangalore. (2024) 
+
 M.Sc. in Mathematics, RKMVERI, WB. (2022) 
+
 B.Sc. in Mathematics, Calcutta University, Kolkata. (2020)
 
 * 🌍  I'm based in Bangalore, Karnataka, India.
