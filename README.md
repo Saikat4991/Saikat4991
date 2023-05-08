@@ -20,7 +20,7 @@ B.Sc. in Mathematics, Calcutta University, Kolkata. (2020)
 <a href="https://www.github.com/Saikat4991" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saikat4991?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![Visitor Count](https://profile-counter.glitch.me/{Saikat4991}/count.svg)
+![Profile views](https://gpvc.arturio.dev/[Saikat4991])
 
 ### Skills
 
